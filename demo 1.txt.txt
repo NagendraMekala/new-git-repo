@@ -1,1 +1,2 @@
 demo 1 text file
+this text for merge conflict
